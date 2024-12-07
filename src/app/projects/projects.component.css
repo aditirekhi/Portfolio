@@ -1,0 +1,19 @@
+.project-desc {
+    background-color: #A68768;
+    border-radius: 0.8rem;
+    padding: 0.6rem;
+    font-size: 0.9rem;
+}
+
+.projects-content {
+    height: 90vh;
+}
+
+a {
+    text-decoration: none;
+    color: #013A56;
+}
+
+a:hover {
+    color: #E2DFDA;
+}

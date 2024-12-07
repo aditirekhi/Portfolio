@@ -1,0 +1,15 @@
+img {
+    width: 22vw;
+    height: auto;
+}
+
+.education-content {
+    height: 80vh;
+}
+
+.education-desc {
+    background-color: #A68768;
+    border-radius: 0.8rem;
+    padding: 0.6rem;
+    font-size: 0.9rem;
+}

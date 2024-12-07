@@ -1,0 +1,45 @@
+img {
+    width: 20vw;
+    height: auto;
+}
+
+.experience-content {
+    display: flex;
+    height: 90vh;
+    width: 100%;
+    padding: 0.5rem;
+}
+
+.timeline {
+    width: 0.5rem;
+    background-color: #A68768;
+    border-radius: 1rem;
+    height: 98%;
+}
+
+.ends {
+    font-size: smaller;
+    font-weight: bold;
+}
+
+.timeline-container {
+    display: flex;
+    width: 100%;
+}
+
+.timeline-ends {
+    width: 1rem;
+    background-color: #856955;
+    border-radius: 50%;
+    height: 1rem;
+    position: relative;
+    left: -0.75rem;
+}
+
+.job-desc {
+    padding: 0.5rem;
+    width: 100%;
+    background-color: #A68768;
+    font-size: small;
+    border-radius: 0.8rem;
+}

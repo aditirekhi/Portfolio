@@ -1,0 +1,50 @@
+.main-container {
+    background-color: #E2DFDA;
+    display: flex;
+}
+
+.sidebar {
+    background-color: #013A56;
+    height: 100vh;
+    width: 35vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+}
+
+.image-container {
+    height: 30%;
+    align-content: center;
+}
+
+.short-desc {
+    height: 70%;
+    width: 100%;
+}
+
+.short-desription-header {
+    margin: 0.7rem 0;
+    font-size: 2rem;
+    color: #A68768;
+}
+
+.short-description {
+    color: #E2DFDA;
+}
+
+.content-container {
+    margin: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #013A56;
+    height: 87vh;
+    font-size: small;
+}
+
+.main-content {
+    width: 55vw;
+    height: 100%;
+    margin: 1.5rem;
+}

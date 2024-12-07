@@ -1,0 +1,27 @@
+.nav-menu {
+    display: flex;
+    flex-direction: column !important;
+    width: fit-content;
+    background-color: #013A56;
+    border-radius: 30px;
+    height: 60vh;
+    padding: 15px 5px;
+    font-size: 1.7rem;
+    justify-content: space-around;
+}
+
+.nav-menu a {
+    background: none;
+    border: none;
+    height: 40px;
+    width: 50px;
+    text-align: center;
+}
+
+.nav-menu a i {
+    color: #E2DFDA;
+}
+
+.is-active {
+    color: #A68768;
+}

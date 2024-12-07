@@ -1,0 +1,28 @@
+img {
+    width: 20vw;
+    height: auto;
+}
+
+.about-me-content {
+    padding: 1.5rem;
+    background-color: #A68768;
+    border-radius: 0.8rem;
+    height: 56%;
+}
+
+.skills-container {
+    position: relative;
+    display: flex;
+    color: #E2DFDA;
+    width: 100%;
+    justify-content: space-around;
+    top: -1.5rem;
+    height: 52.5%;
+}
+
+.skill-content {
+    background-color: #013A56;
+    border-radius: 0.8rem;
+    padding: 1rem;
+    width: 31%;
+}
